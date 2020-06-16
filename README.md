@@ -6,3 +6,7 @@
 
 ### Thought Leaders
 - [Harald Atmanspacher](https://scholar.google.com/citations?user=L0uPYrQAAAAJ)
+
+
+### Papers
+- [The Potential of Using Quantum Theory To Build Models of Cognition](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12043)
