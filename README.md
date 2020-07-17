@@ -6,6 +6,7 @@
 
 ### Thought Leaders
 - [Harald Atmanspacher](https://scholar.google.com/citations?user=L0uPYrQAAAAJ)
+- [Heechul Park](https://scholar.google.com/citations?user=uA8zj_QAAAAJ&hl=en)
 
 
 ### Papers
