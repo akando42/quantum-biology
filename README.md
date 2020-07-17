@@ -11,3 +11,4 @@
 
 ### Papers
 - [The Potential of Using Quantum Theory To Build Models of Cognition](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12043)
+- [Enhanced Energy Transport-In-Genetically-Engineered-Virus](https://www.semanticscholar.org/paper/Enhanced-energy-transport-in-genetically-engineered-Park-Heldman/900166f48e25e2054f766d7111dc91227a83c3f0)
